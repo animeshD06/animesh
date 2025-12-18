@@ -32,7 +32,7 @@ export function generatePersonStructuredData() {
       `https://linkedin.com/in/${selfData.socials_username.linkedin}`,
       `https://instagram.com/${selfData.socials_username.instagram}`,
     ],
-    url: "https://aarab.vercel.app",
+    url: "https://animeshd.vercel.app/",
     description: selfData.bio,
     knowsAbout: skills,
   };
@@ -43,7 +43,7 @@ export function generateWebsiteStructuredData() {
     "@context": "https://schema.org",
     "@type": "WebSite",
     name: "Animesh Abhi Dubey - Portfolio",
-    url: "https://aarab.vercel.app",
+    url: "https://animeshd.vercel.app/",
     description:
       "Animesh Abhi Dubey's portfolio featuring projects in React, Next.js, and modern web development",
     author: {
@@ -68,7 +68,7 @@ export function generateOrganizationStructuredData() {
     "@context": "https://schema.org",
     "@type": "Organization",
     name: selfData.name,
-    url: "https://aarab.vercel.app",
+    url: "https://animeshd.vercel.app/",
     logo: "https://aarab.vercel.app/images/logo.png",
     description: selfData.bio,
     founder: {
@@ -90,7 +90,7 @@ export function generateResumeStructuredData() {
     name: "Animesh Abhi Dubey Resume",
     description:
       "Professional resume of Animesh Abhi Dubey - Student Developer specializing in Full-Stack Web Development",
-    url: "https://aarab.vercel.app/resume",
+    url: "https://animeshd.vercel.app/",
     author: {
       "@type": "Person",
       name: selfData.name,
