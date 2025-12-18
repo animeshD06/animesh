@@ -1,4 +1,4 @@
-# 🌟 Aarab Nishchal's Portfolio
+# 🌟 Animesh's Portfolio
 
 <div align="center">
 
@@ -33,8 +33,8 @@
 
 A modern, responsive portfolio website built with **Next.js 15** and **React 19**, featuring stunning dark aesthetics and smooth animations. This project showcases advanced web development practices with a focus on performance, accessibility, and user experience.
 
-**🌐 Live Demo:** [aarab.vercel.app](https://aarab.vercel.app)
-**📱 GitHub:** [github.com/aarabii/An](https://github.com/aarabii/An)
+**🌐 Live Demo:** [Animesh.vercel.app](https://animeshd.vercel.app/)
+**📱 GitHub:** [github.com/Animesh/An](https://github.com/AnimeshD06/animesh)
 
 ## ✨ Features
 
@@ -129,7 +129,7 @@ A modern, responsive portfolio website built with **Next.js 15** and **React 19*
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/aarabii/An.git
+   git clone https://github.com/AnimeshD06/animesh.git
    cd An
    ```
 
@@ -212,26 +212,18 @@ export const selfData = {
 
 <div align="center">
 
-| Platform         | Username                                                    | Link                         |
-| ---------------- | ----------------------------------------------------------- | ---------------------------- |
-| 🐙 **GitHub**    | [@aarabii](https://github.com/aarabii)                      | `https://github.com/aarabii` |
-| 💼 **LinkedIn**  | [Aarab Nishchal](https://linkedin.com/in/aarab-nishchal)    | Professional Network         |
-| 📸 **Instagram** | [@aarab.ii](https://instagram.com/aarab.ii)                 | Creative Updates             |
-| 🐦 **Twitter**   | [@aarab_ii](https://twitter.com/aarab_ii)                   | Tech Thoughts                |
-| 📧 **Email**     | [aarab.nishchal@gmail.com](mailto:aarab.nishchal@gmail.com) | Direct Contact               |
-
 </div>
 
 ---
 
 <div align="center">
 
-**Built with ❤️ by [Aarab Nishchal](https://aarab.vercel.app)**
+**Built with ❤️ by [Animesh](https://animeshd.vercel.app/)**
 
 _Student Developer | Chief Problem Solver | Solution Sorcerer_
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-aarab.vercel.app-9333ea?style=for-the-badge)](https://aarab.vercel.app)
 
 </div>
-#   a n i m e s h  
+#   a n i m e s h 
+ 
  
