@@ -6,8 +6,8 @@ const nextConfig: NextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "aarab.vercel.app",
-        port: "",
+        hostname: "animeshd.vercel.app",
+       
         pathname: "/**",
       },
     ],
@@ -71,7 +71,7 @@ const nextConfig: NextConfig = {
       },
       {
         source: "/email",
-        destination: "mailto:aarab.nishchal@gmail.com",
+        destination: "mailto:Animeshabhidubey182@gmail.com",
         permanent: true,
       },
       {
@@ -81,12 +81,12 @@ const nextConfig: NextConfig = {
       },
       {
         source: "/direct-resume",
-        destination: "/docs/Aarab_Nishchal_Resume.pdf",
+        destination: "/docs/ANimesh",
         permanent: true,
       },
       {
         source: "/github",
-        destination: "www.github.com/aarabii",
+        destination: "www.github.com/AnimeshD06",
         permanent: true,
       },
     ];
